@@ -1,0 +1,2 @@
+Visual Studio shortcuts for windows:
+  https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png
